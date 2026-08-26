@@ -1,0 +1,23 @@
+{
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(auth)/signup/page": "app/(auth)/signup/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/(dashboard)/dashboard/pricing/page": "app/(dashboard)/dashboard/pricing/page.js",
+  "/(dashboard)/dashboard/projects/[id]/page": "app/(dashboard)/dashboard/projects/[id]/page.js",
+  "/(dashboard)/dashboard/projects/new/page": "app/(dashboard)/dashboard/projects/new/page.js",
+  "/(dashboard)/dashboard/projects/page": "app/(dashboard)/dashboard/projects/page.js",
+  "/(dashboard)/dashboard/settings/page": "app/(dashboard)/dashboard/settings/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/checkout/route": "app/api/checkout/route.js",
+  "/api/download/[token]/route": "app/api/download/[token]/route.js",
+  "/api/preview/route": "app/api/preview/route.js",
+  "/api/process/route": "app/api/process/route.js",
+  "/api/process/status/route": "app/api/process/status/route.js",
+  "/api/upload/route": "app/api/upload/route.js",
+  "/api/webhooks/stripe/route": "app/api/webhooks/stripe/route.js",
+  "/d/[token]/page": "app/d/[token]/page.js",
+  "/d/[token]/success/page": "app/d/[token]/success/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}

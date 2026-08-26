@@ -1,0 +1,23 @@
+{
+  "/(auth)/login/page": "/login",
+  "/(auth)/signup/page": "/signup",
+  "/(dashboard)/dashboard/page": "/dashboard",
+  "/(dashboard)/dashboard/pricing/page": "/dashboard/pricing",
+  "/(dashboard)/dashboard/projects/[id]/page": "/dashboard/projects/[id]",
+  "/(dashboard)/dashboard/projects/new/page": "/dashboard/projects/new",
+  "/(dashboard)/dashboard/projects/page": "/dashboard/projects",
+  "/(dashboard)/dashboard/settings/page": "/dashboard/settings",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/checkout/route": "/api/checkout",
+  "/api/download/[token]/route": "/api/download/[token]",
+  "/api/preview/route": "/api/preview",
+  "/api/process/route": "/api/process",
+  "/api/process/status/route": "/api/process/status",
+  "/api/upload/route": "/api/upload",
+  "/api/webhooks/stripe/route": "/api/webhooks/stripe",
+  "/d/[token]/page": "/d/[token]",
+  "/d/[token]/success/page": "/d/[token]/success",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}
